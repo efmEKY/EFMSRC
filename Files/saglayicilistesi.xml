@@ -4,6 +4,7 @@
     <kurumadi>EFEM Yazılım</kurumadi>
     <sablonlistesi>
       <sablon version="1.0" aciklama="Örnek Optik Cevap Kağıdı Şablonu" downloadurl="https://github.com/efmEKY/EfmBasiliBelgeDoldurucu/blob/master/Files/efemornekoptik.ebbd?raw=true"/>
+      <sablon version="1.0" aciklama="Çankaya SRC-ÜDY-ODY Şablonu" downloadurl="https://github.com/efmEKY/EFMSRC/blob/master/Files/srcCankaya.ebbd?raw=true"/>      	
       <sablon version="1.2" aciklama="SRC-ÜDY-ODY Şablonu" downloadurl="https://github.com/efmEKY/EFMSRC/blob/master/Files/src.ebbd?raw=true"/>      	
     </sablonlistesi>
   </saglayici>
